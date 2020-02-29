@@ -1,8 +1,7 @@
-sphinx-globaltoc
-================
+Use and configure
+=================
 
-A small sphinx extension to make it possible to add a "toggle button" to
-sections of your page.
+Here's how to use and configure the TOC file.
 
 # Installation
 

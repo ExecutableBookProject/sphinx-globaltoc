@@ -1,0 +1,13 @@
+path: intro.md
+sections:
+  - path: using.md
+  - path: example_subsections.md
+    sections:
+      - path: section1/page4.md
+        options: numbered
+        name:
+        sections:
+          - path: section1/page2.md
+            sections:
+              - path: section2/section3/page5.md
+      - path: section2/page3.md
